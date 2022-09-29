@@ -1,13 +1,10 @@
 <!DOCTYPE html>
-<!-- Website template by freewebsitetemplates.com -->
+
 <html>
 <head>
 	<meta charset="UTF-8">
 	<title>About - Pizza Pasta Web Template</title>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<!--[if IE 6]>
-		<link rel="stylesheet" type="text/css" href="css/ie6.css">
-	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/assets/css/style.css">
 </head>
 <body>
 	<div id="header">
@@ -17,7 +14,7 @@
 				<li><a href="menu.php">Cardápio</a></li>
 			</ul>
 			<div>
-				<a href="index.php"><img src="images/logo.jpg" alt="Logo"></a>
+				<a href="/assets/php/index.php"><img src="/assets/images/logo.jpg" alt="Logo"></a>
 			</div>
 			<ul>
 				<li><a href="about.php" style="margin-left: 30px;">Sobre nós</a></li>

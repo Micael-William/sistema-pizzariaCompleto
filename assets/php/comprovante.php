@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Liberteri Italiano Web Template</title>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="/assets/css/style.css">
 </head>
 <body>
 	<div id="content">
